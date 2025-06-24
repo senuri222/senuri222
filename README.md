@@ -36,12 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Senuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=senuri222&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/imaya-senuri-94b357250/)
