@@ -1,46 +1,45 @@
-# 👋 Hello! I'm Imaya Senuri
+# 👋 Hi there, I'm Imaya Senuri!
 
-🎓 BSc (Hons) Software Engineering undergraduate at LNBTI, Sri Lanka  
-💡 Passionate about building creative, real-world software solutions  
-🌱 Currently exploring: **Spring Boot**, **AngularJS**, and **PostgreSQL**  
-💻 Focused on web development, system design, and problem-solving
-
----
-
-## 💼 Selected Projects
-
-- 🎓 **University Social Media App**  
-  Full-stack platform for student and staff communication, event posting, messaging, and AI-powered moderation  
-  🛠️ *Spring Boot · AngularJS · Tailwind CSS*
-
-- ❄️ **Chiller Plant Monitoring System**  
-  Role-based desktop app for monitoring temperature, humidity, and water pH  
-  🛠️ *C# · OOP · SQL Server*
-
-- 🧾 **Laptop Repair & Sales Management**  
-  Backend system with PostgreSQL features like triggers, procedures, and transactions  
-  🛠️ *PHP · PostgreSQL*
-
-- 🏘️ **Real Estate Web App**  
-  Responsive React SPA for property search and filtering with local storage support  
-  🛠️ *React.js · Tailwind CSS*
+🎓 **BSc (Hons) Software Engineering Undergraduate**  
+📍 **LNBTI | Sri Lanka**  
+💡 Passionate about building **creative, real-world software solutions**  
+🔧 Focused on **full stack development**, **system design**, and **problem-solving**
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
-**Languages:** Java · C++ · Python · PHP · JavaScript · C#  
-**Frameworks/Libraries:** Spring Boot · Laravel · AngularJS · React.js · Vue.js · Tailwind CSS · Node.js  
-**Databases:** PostgreSQL · MySQL  
-**Tools:** Git · Postman · IntelliJ · Eclipse · pgAdmin
+### 👩‍💻 Languages
+- Java &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Python &nbsp;•&nbsp; PHP &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C#
+
+### 🧰 Frameworks & Libraries
+- Spring Boot &nbsp;•&nbsp; Laravel &nbsp;•&nbsp; AngularJS &nbsp;•&nbsp; React.js &nbsp;•&nbsp; Vue.js  
+- Tailwind CSS &nbsp;•&nbsp; Node.js
+
+### 🗃️ Databases
+- PostgreSQL &nbsp;•&nbsp; MySQL
+
+### 🛠️ Tools
+- Git &nbsp;•&nbsp; Postman &nbsp;•&nbsp; IntelliJ IDEA &nbsp;•&nbsp; Eclipse &nbsp;•&nbsp; pgAdmin
 
 ---
 
-## 📫 Connect with Me
+## 🌱 About Me
+
+I'm a curious and motivated software engineering student passionate about exploring new technologies and building innovative solutions. I love transforming ideas into code and continuously improving my skills through learning and hands-on development.
+
+When I'm not coding, you can find me:
+- Reading about system architecture & software design
+- Solving problems on platforms like LeetCode & HackerRank
+- Collaborating on exciting tech projects
+
+---
+
+## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/imaya-senuri-94b357250/)
-- 📧 [imayasenurin@gmail.com](mailto:imayasenurin@gmail.com)
+- 📧 Email: imayasenurin@gmail.com
 
 ---
 
-_“Turning ideas into user-friendly systems — one meaningful project at a time.”_
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
