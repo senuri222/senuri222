@@ -39,6 +39,7 @@ When I'm not coding, you can find me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/imaya-senuri-94b357250/)
 - 📧 Email: imayasenurin@gmail.com
+- 👤 [Portfolio ](https://senuri222.github.io/portfolio/)
 
 ---
 
