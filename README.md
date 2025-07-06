@@ -35,8 +35,6 @@ When I'm not coding, you can find me:
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/<your-username>/count.svg)
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/imaya-senuri-94b357250/)
